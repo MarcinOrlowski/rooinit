@@ -6,6 +6,7 @@
 - [Key Features & Behavior](#key-features--behavior)
 - [Installation](#installation)
 - [Usage Examples](#usage-examples)
+- [Changelog](CHANGES.md)
 - [License](#license)
 
 ---

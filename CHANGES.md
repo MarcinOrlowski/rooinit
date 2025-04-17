@@ -7,3 +7,6 @@
   * Refactored `.roomodes` to remove embedded Git workflow instructions, relying on rule files instead.
   * Fixed JSON syntax errors (trailing commas) in `.roomodes` after removing instructions.
   * Updated `rooinit.sh` to automatically add `.roo` and `.roomodes` to `.gitignore` upon initialization.
+
+* 2025-04-16
+  * Initial release
