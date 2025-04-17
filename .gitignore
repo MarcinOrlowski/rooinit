@@ -1,0 +1,9 @@
+# Temporary/Swap files
+*.swp
+*~
+
+# Backup files
+*.bak
+
+# Local symlink name
+rooinit
