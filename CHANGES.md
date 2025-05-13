@@ -1,5 +1,8 @@
 # Changelog
 
+* 2025-05-13
+  * Expanded `Architect` role with `C.R.I.S.P.` framework rules.
+
 * 2025-04-17
   * Added new `code-javascript` agent with mode definition and instruction files.
   * Added Git workflow guidelines (branch naming, semantic commits, PR messages) to custom mode instructions.
